@@ -1,0 +1,29 @@
+#main_content {
+  margin: 90px auto;
+}
+
+#buttons {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+}
+
+#buttons button {
+  margin: 5px auto;
+  width: 60%;
+  background-color: white;
+  color: rgb(0,123,255);
+}
+
+#heading {
+  margin: auto 0;
+  background: url(../img/col1.png) no-repeat;
+  background-size: cover;
+}
+
+#content {
+  /*background: url(../../assets/img/bg.png) no-repeat;*/
+  /*background-size: contain;*/
+}
+
